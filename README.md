@@ -11,8 +11,8 @@ This repository contains solutions to the Week 1 toy problems.
 6. **Cylinder Volume:** Calculates the volume of a cylinder using object-oriented programming.
 
 ## How to Run
-1. Clone the repository: `git clone <repository-link>`
-2. Navigate to the folder: `cd Week-1-Toy-Problems`
+1. Clone the repository: `git clone https://github.com/Guilty03/Toy-Problems-Solutions`
+2. Navigate to the folder: `cd Toy-Problems-Solutions`
 3. Open each `.js` file in a JavaScript runtime (e.g., Node.js or browser console) to test.
 
 ## Author
